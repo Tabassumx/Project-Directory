@@ -64,6 +64,7 @@ An experimental landing page for footwear, focusing on bold typography and motio
 ├── assets/          # Images and design assets
 ├── css/             # Stylesheets
 └── js/              # Interactive logic and navigation
+```
 ## 🎯 Purpose
 
 This repository contains the source code for my live project showcase website and acts as my personal portfolio directory.
