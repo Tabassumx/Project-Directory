@@ -2,7 +2,7 @@
 
 A clean, minimalist hub showcasing a curated collection of web development projects, ranging from functional utility dashboards to high-end aesthetic interfaces. This directory serves as a central port of call for exploring live demos and technical implementations.
 
-## 🚀 Live Demo
+## 🚀 Live
 
 🔗 **View the Project Directory**  
 https://tabassumx.github.io/Project-Directory/
@@ -69,7 +69,7 @@ An experimental landing page for footwear, focusing on bold typography and motio
 
 This repository contains the source code for my live project showcase website and acts as my personal portfolio directory.
 
-## 🔮 Future Plans
+## Future Plans
 
 - Add more advanced projects  
 - Better animations  
@@ -77,7 +77,7 @@ This repository contains the source code for my live project showcase website an
 - AI-powered tools  
 - New UI upgrades  
 
-## 👩‍💻 Creator
+## Creator
 
 Made with ambition by **Tabassum**
 
@@ -89,6 +89,6 @@ If you like this project, feel free to star the repo and follow my journey.
 
 > Building ideas into reality, one project at a time.
 
-## 📬 Contact
-GitHub: @Tabassumx
+##  Contact
+GitHub: https://github.com/Tabassumx @Tabassumx
 Email: tabassumtx@gmail.com
