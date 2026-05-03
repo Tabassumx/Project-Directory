@@ -57,14 +57,6 @@ An experimental landing page for footwear, focusing on bold typography and motio
 
 ---
 
-## 📂 Project Structure
-
-```text
-├── index.html       # Main directory landing page
-├── assets/          # Images and design assets
-├── css/             # Stylesheets
-└── js/              # Interactive logic and navigation
-```
 ## 🎯 Purpose
 
 This repository contains the source code for my live project showcase website and acts as my personal portfolio directory.
@@ -90,5 +82,6 @@ If you like this project, feel free to star the repo and follow my journey.
 > Building ideas into reality, one project at a time.
 
 ##  Contact
-GitHub: https://github.com/Tabassumx @Tabassumx
+GitHub: https://github.com/Tabassumx [ @Tabassumx ] 
+
 Email: tabassumtx@gmail.com
