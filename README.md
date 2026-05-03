@@ -71,7 +71,7 @@ This repository contains the source code for my live project showcase website an
 
 ## Creator
 
-Made with ambition by **Tabassum**
+Made by **Tabassum**
 
 ## ⭐ Support
 
